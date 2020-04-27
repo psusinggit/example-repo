@@ -1,2 +1,0 @@
-# example-repo
-test repo
